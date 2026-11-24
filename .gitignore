@@ -1,0 +1,24 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+.DS_Store
+*.swp
+
+# Dane osobiste: NIE wrzucaj ich do repozytorium
+budzet.json
+*.xls
+*.xlsx
+*.csv
+Zestawienie_operacji*
+Budżet_*
+Budzet_*
+*.HEIC
+*.heic
+*.jpg
+*.jpeg
+*.png
+!docs/**/*.png
+!docs/**/*.jpg
